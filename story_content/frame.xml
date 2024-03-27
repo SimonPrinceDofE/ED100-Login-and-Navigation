@@ -19,7 +19,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6TRNVurtEFo.png" />
+              <option name="html5_logo_url" value="mobile/5XwrpyOZhIA.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1616,6 +1616,13 @@
             <slidelink slideid="_player.6VCqEhSw07Y.6lbR7sSOsz4" displaytext="Unit 4.1" expand="false" type="slide" />
             <slidelink slideid="_player.6VCqEhSw07Y.5grUJQBXtt8" displaytext="Unit 4.2" expand="false" type="slide" />
             <slidelink slideid="_player.6VCqEhSw07Y.6eIwfQEwXJI" displaytext="Task 4.2" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6MopGG4yOFF" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MopGG4yOFF.6NdLxi3EEze" displaytext="General Content Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6MopGG4yOFF.6rIanZNZAT6" displaytext="Panelled Content Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6MopGG4yOFF.5lDUvxTnlql" displaytext="2 Page Panel" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5Z6MCMadNqa.5nzz5nvszyB" displaytext="Learning Intentions" expand="false" type="slide" />
